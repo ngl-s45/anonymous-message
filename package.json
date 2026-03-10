@@ -1,0 +1,13 @@
+{
+  "name": "anonymous-messaging-app",
+  "version": "1.0.0",
+  "description": "An app for sending anonymous messages",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.7"
+  }
+}
